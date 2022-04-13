@@ -1,7 +1,39 @@
-## About
+<div align="center">
+    <img src="./assets/banner.png" width="800">
+</div>
 
-Temporary email generator using python 🐍
+<br>
 
+<p align="center">
+    <img src="https://img.shields.io/github/license/w1nes/mass-email?color=blue&logo=github&logoColor=blue&style=for-the-badge">
+    <img src="https://img.shields.io/github/issues/w1nes/mass-email?color=blue&logo=github&logoColor=blue&style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/w1nes/mass-email?color=blue&label=STARS&logo=github&logoColor=blue&style=for-the-badge">
+    <img src="https://img.shields.io/github/languages/code-size/w1nes/mass-email?color=blue&logo=github&logoColor=blue&style=for-the-badge">
+</p>
+
+<br>
+
+<p> Temporary <b>email</b> generator using python 🐍 </p>
+
+<br>
+
+## ⚡ Installing / Getting started
+
+<p> A quick guide of how to install and use. </p>
+
+```
+1. Clone the repository - git clone https://github.com/w1res/mass-email.git
+2. Install the libraries - pip3 install -r requirements.txt
+3. Run -  python3 main.py --amounts AMOUNTS --password PASSWORD
+```
+
+<br>
+
+<br><br>
+
+### ⚙️ Pre-requisites
+- [Python 3](https://www.python.org/downloads/) installed on your machine.
+- Install the libraries with `pip3 install -r requirements.txt`
 
 ## Usage
 ```
@@ -26,3 +58,8 @@ options:
 > NOTE: Number of emails and password is required.
 
 > Saved email format: michaelmarshall37990@candassociates.com|ContaPobre1337
+
+<br><br>
+
+### ⚠️ Warning
+- The developer is not responsible for any malicious use of this tool.

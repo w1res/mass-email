@@ -15,7 +15,7 @@
 
 <br>
 
-<p> Temporary <b>email</b> generator using python 🐍 </p>
+<p> 📧 Bulk temporary <b>email</> generator using [mail.tm](https://mail.tm/) services. </p>
 
 ## ⚡ Installing / Getting started
 

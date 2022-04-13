@@ -23,3 +23,4 @@ options:
   -p PASSWORD, --password PASSWORD
                         Email password
 ```
+> NOTE: Number of emails and password is required.

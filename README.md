@@ -24,3 +24,4 @@ options:
                         Email password
 ```
 > NOTE: Number of emails and password is required.
+> Saved email format: michaelmarshall37990@candassociates.com|ContaPobre1337

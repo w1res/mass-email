@@ -15,8 +15,6 @@
 
 <p> Temporary <b>email</b> generator using python 🐍 </p>
 
-<br>
-
 ## ⚡ Installing / Getting started
 
 <p> A quick guide of how to install and use. </p>

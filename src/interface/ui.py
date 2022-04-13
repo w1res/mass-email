@@ -2,7 +2,7 @@ from rich import print
 
 
 def ascii() -> str:
-    """Print ASCII on screen"""
+    """Print ascii on screen"""
 
     file_path: str = "src/interface/ascii.txt"
 

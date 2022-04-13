@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/github/stars/w1nes/mass-email?color=blue&label=STARS&logo=github&logoColor=blue&style=for-the-badge">
     <img src="https://img.shields.io/github/languages/code-size/w1nes/mass-email?color=blue&logo=github&logoColor=blue&style=for-the-badge">
 </p>
-
 <br>
 
 #### 📧 Bulk temporary email generator using [mail.tm](https://mail.tm/) services.
@@ -26,7 +25,7 @@
 ```
 1. Clone the repository - git clone https://github.com/w1res/mass-email.git
 2. Install the libraries - pip3 install -r requirements.txt
-3. Run -  python3 main.py --amounts AMOUNTS --password PASSWORD
+3. Run - python3 main.py --amounts AMOUNTS --password PASSWORD
 ```
 
 ### ⚙️ Pre-requisites

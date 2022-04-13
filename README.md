@@ -15,7 +15,7 @@
 
 <br>
 
-<p> 📧 Bulk temporary <b>email</> generator using [mail.tm](https://mail.tm/) services. </p>
+<p> 📧 Bulk temporary <b>email</> generator using [a link](https://mail.tm/) services. </p>
 
 ## ⚡ Installing / Getting started
 

@@ -7,10 +7,10 @@
 <br>
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/w1nes/mass-email?color=blue&logo=github&logoColor=blue&style=for-the-badge">
-    <img src="https://img.shields.io/github/issues/w1nes/mass-email?color=blue&logo=github&logoColor=blue&style=for-the-badge">
-    <img src="https://img.shields.io/github/stars/w1nes/mass-email?color=blue&label=STARS&logo=github&logoColor=blue&style=for-the-badge">
-    <img src="https://img.shields.io/github/languages/code-size/w1nes/mass-email?color=blue&logo=github&logoColor=blue&style=for-the-badge">
+    <img src="https://img.shields.io/github/license/w1res/mass-email?color=blue&logo=github&logoColor=blue&style=for-the-badge">
+    <img src="https://img.shields.io/github/issues/w1res/mass-email?color=blue&logo=github&logoColor=blue&style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/w1res/mass-email?color=blue&label=STARS&logo=github&logoColor=blue&style=for-the-badge">
+    <img src="https://img.shields.io/github/languages/code-size/w1res/mass-email?color=blue&logo=github&logoColor=blue&style=for-the-badge">
 </p>
 
 #### 📧 Bulk temporary email generator using [mail.tm](https://mail.tm/) services.

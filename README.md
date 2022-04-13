@@ -27,10 +27,6 @@
 3. Run -  python3 main.py --amounts AMOUNTS --password PASSWORD
 ```
 
-<br>
-
-<br><br>
-
 ### ⚙️ Pre-requisites
 - [Python 3](https://www.python.org/downloads/) installed on your machine.
 - Install the libraries with `pip3 install -r requirements.txt`
@@ -58,8 +54,6 @@ options:
 > NOTE: Number of emails and password is required.
 
 > Saved email format: michaelmarshall37990@candassociates.com|ContaPobre1337
-
-<br><br>
 
 ### ⚠️ Warning
 - The developer is not responsible for any malicious use of this tool.

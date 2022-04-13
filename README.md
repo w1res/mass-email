@@ -17,7 +17,7 @@
 
 #### 📧 Bulk temporary email generator using [mail.tm](https://mail.tm/) services.
 
-<br><br>
+<br>
 ## ⚡ Installing / Getting started
 
 <p> A quick guide of how to install and use. </p>

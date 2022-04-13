@@ -1,5 +1,5 @@
 """
-Developed by w1nes && vx1
+Developed by w1res && vx1
 
 Generate bulk temporary email
 Usage: python3 main.py --amounts 50 --password ContaPobre1337++

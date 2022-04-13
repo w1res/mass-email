@@ -1,4 +1,5 @@
-#📧 Mass-Email
+# 📧 Mass-Email
+
 <div align="center">
     <img src="./assets/banner.png" width="600">
 </div>

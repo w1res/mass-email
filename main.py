@@ -2,9 +2,9 @@
 Developed by w1res && vx1
 
 Generate bulk temporary email
-Usage: python3 main.py --amounts 50 --password ContaPobre1337++
+Usage: python3 main.py --amounts 50 --password Experiment1337
 
-Alternative usage using Proxychains4: proxychains4 -q python3 main.py -a 50 -p ContaPobre1337
+Alternative usage using Proxychains4: proxychains4 -q python3 main.py -a 50 -p Experiment1337
 OBS: Slow, but it prevents you from getting the API lock.
 """
 

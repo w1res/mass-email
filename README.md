@@ -53,7 +53,7 @@ options:
 ```
 > NOTE: Number of emails and password is required.
 
-> Saved email format: michaelmarshall37990@candassociates.com|ContaPobre1337
+> Saved email format: michaelmarshall37990@candassociates.com|Password
 
 ### ⚠️ Warning
 - The developer is not responsible for any malicious use of this tool.
